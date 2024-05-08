@@ -1,0 +1,11 @@
+hacer validaciones
+    -cuando se llama y la base de dato esta vacia en especial en el metodo findAll
+    - validar que no se repita el nombre del product
+    - validar q no se envien price negativos
+    - manejar todos esos errores
+    - retornar un mensage con un status en los errores
+
+En Inventory-Service-
+    - hacer validaciones si el stock esta en 0 retornar mensajes q no hay el producto en inventario
+
+
